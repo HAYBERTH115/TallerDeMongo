@@ -24,81 +24,81 @@ crearFicha_Tecnica([{
    "cantidad_insumos":faker.number.int({min:1,max:100000}),
    "Costo_insumo":faker.number.int({min:1,max:1000000}),
    "imagen_producto_final":faker.image.avatar(),
-   "costo final_producto":faker.number.int(),
+   "costo_final_producto":faker.number.int(),
    "detalle":faker.lorem.text(),
-   "id_isumos":faker.number.int({min:1, max:2000})
+   "id_insumos":faker.number.int({min:1, max:2000})
 
 },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- },{
-    "cantidad_insumos":faker.number.int({min:1,max:100000}),
-    "Costo_insumo":faker.number.int({min:1,max:1000000}),
-    "imagen_producto_final":faker.image.avatar(),
-    "costo final_producto":faker.number.int(),
-    "detalle":faker.lorem.text(),
-    "id_isumos":faker.number.int({min:1, max:2000})
- 
- }
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},{
+   "cantidad_insumos":faker.number.int({min:1,max:100000}),
+   "Costo_insumo":faker.number.int({min:1,max:1000000}),
+   "imagen_producto_final":faker.image.avatar(),
+   "costo_final_producto":faker.number.int(),
+   "detalle":faker.lorem.text(),
+   "id_insumos":faker.number.int({min:1, max:2000})
+
+},
 ])}

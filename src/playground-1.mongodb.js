@@ -101,7 +101,7 @@ use('Publigrafit');
 //  } )
 
 
-//Punto del lookup para unir dos colecciones.
+//Punto del lookup para unir dos colecciones en este caso insumos con ficha_tecnica-
 // db.insumos.aggregate([
 //    {
 //       $lookup: {
@@ -128,7 +128,7 @@ use('Publigrafit');
 // db.insumosconunwind.aggregate([{
 //     $unwind : "$sizes"
 //  }])
-//Pipeline que se hacian 3 veces segun el trabajo del intructor.
+//Pipeline que se hacian 3 veces segun el trabajo del intructor que se utiliza para organizar los elementos de la coleccion.
 // db.insumos.aggregate([
 //    {
 //       $match: {
@@ -161,7 +161,8 @@ use('Publigrafit');
 //     {
 //        $limit: 5
 //     }
-//  ])
+// ])
+
 // db.insumos.aggregate([
 //     {
 //        $match: {
